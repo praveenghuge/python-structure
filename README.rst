@@ -1,1 +1,2 @@
-"Basic Template for python project"
+
+Basic folder structure for python project
